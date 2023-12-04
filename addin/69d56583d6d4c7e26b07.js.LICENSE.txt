@@ -1,0 +1,5 @@
+/**
+ * @license
+ * lodash 3.0.0 (Custom Build) lodash.com/license | Underscore.js 1.7.0 underscorejs.org/LICENSE
+ * Build: `lodash modern -o ./lodash.js`
+ */
